@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Han Yan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/myself.png" # path of avatar image, e.g."/assets/images/bio-photo.jpg"
   bio              : "Financial Analysis Portfolio"
   location         : "Shanghai/Los Angeles/New York"
   email            : "han.yan6778@gmail.com"
