@@ -16,7 +16,7 @@ excerpt: "Bitcoin and Market Sentiment Indicator through LSTM RNN Model"
 First import all the necessary package for the project
 
 Python code block:
-```Python
+```python
     import tensorflow as tf
     import numpy as np
     import pandas as pd
