@@ -1,10 +1,10 @@
 ---
-title: "Bitcoin and Market Sentiment Indicator: Perceptron"
+title: "Bitcoin and Market Sentiment Indicator"
 date: 2020-11-18
 tags: [machine learning, data science, big data, neural network]
 header:
   image: "/images/bitcoin.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
+excerpt: "Bitcoin and Market Sentiment Indicator through LSTM RNN Model"
 ---
 
 # H1 Heading
