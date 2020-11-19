@@ -2,10 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Bitcoin and Market Sentiment Indicator"
-    url: /Bitcoin-and-Market-Sentiment-Indicator/
 
-    
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
