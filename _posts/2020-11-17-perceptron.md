@@ -16,12 +16,7 @@ excerpt: "Bitcoin and Market Sentiment Indicator through LSTM RNN Model"
 First import all the necessary package for the project
 
 Python code block:
-'''Python
-    import numpy as np
-'''
-
-Python code block:
-'''python
+```Python
     import tensorflow as tf
     import numpy as np
     import pandas as pd
@@ -45,5 +40,4 @@ Python code block:
     from math import sqrt
     from sklearn.metrics import mean_squared_error
     from keras.constraints import max_norm
-
-'''
+```
