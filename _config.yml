@@ -102,7 +102,7 @@ author:
   GitHub           : "Han-Yan-42"
   links:
     - label: "LinkedIn: Han Yan"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/han-yan-74453896"
     - label: "Website"
       icon: "fas fa-fw fa-link"
