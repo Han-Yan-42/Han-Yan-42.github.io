@@ -44,4 +44,4 @@ Python code block:
 Accordingly, I choose to use 1 hidden layer with 250 neuron nodes and a regularization dropout of 0.2, which preventing overfitting, to predict the future daily average closing price and obtain the following result with MAPE on validation set of 33%.
 
 Here is the result and visualization:
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bitcoin/Picture1" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Bitcoin/Picture1" alt="">
