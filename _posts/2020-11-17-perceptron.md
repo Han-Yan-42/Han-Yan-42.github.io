@@ -41,3 +41,6 @@ Python code block:
     from sklearn.metrics import mean_squared_error
     from keras.constraints import max_norm
 ```
+Accordingly, I choose to use 1 hidden layer with 250 neuron nodes and a regularization dropout of 0.2, which preventing overfitting, to predict the future daily average closing price and obtain the following result with MAPE on validation set of 33%.
+
+Here is the result and visualization:
