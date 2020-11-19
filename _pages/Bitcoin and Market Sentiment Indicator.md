@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Bitcoin-and-Market-Sentiment-Indicator/
-title: "Bitcoin and Market Sentiment Indicator Posts by Tages"
+title: "Bitcoin and Market Sentiment Indicator"
 author_profile: true
 header:
   image: "/images/bitcoin.jpg"
